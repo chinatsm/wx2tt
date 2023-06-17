@@ -5,3 +5,5 @@
 wx2tt 源文件夹
 
 自动会在源文件夹同级目录新增一个 源文件夹_tt 的目录
+
+二进制文件下载：https://github.com/chinatsm/wx2tt/releases
